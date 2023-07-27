@@ -1,2 +1,11 @@
 # Required packages and its versions
 
+gitpython -3.1.31
+pandas 2.0.3
+numpy 1.25.1
+SQLite 3.7.15
+streamlit 1.25.0
+matplotlib 3.7.2
+seaborn 0.12.0
+altair 5.0.1
+plotly 5.15.0
